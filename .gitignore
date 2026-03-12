@@ -2,6 +2,7 @@
 DerivedData/
 *.xcuserstate
 *.xcscmblueprint
+*.xccheckout
 
 # User-specific Xcode data
 **/xcuserdata/
@@ -18,7 +19,14 @@ build/
 
 # Cursor / IDE
 .cursor/
+.vscode/
 
 # Firebase (secrets)
 **/GoogleService-Info.plist
+
+# Optional: fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
 
