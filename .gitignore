@@ -1,0 +1,24 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+
+# User-specific Xcode data
+**/xcuserdata/
+
+# SwiftPM
+.swiftpm/
+**/.swiftpm/
+
+# Build products
+build/
+
+# macOS
+.DS_Store
+
+# Cursor / IDE
+.cursor/
+
+# Firebase (secrets)
+**/GoogleService-Info.plist
+
